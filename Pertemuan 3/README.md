@@ -5,7 +5,7 @@ Kelas: RA
 Mata Kuliah: Visualisasi Data dan Informasi
 ```
 
-# Tugas Viz 2 - Visualisasi Perubahan Populasi di Amerika Serikat (2022-2023)
+# Tugas Viz 3 - Visualisasi Perubahan Populasi di Amerika Serikat (2022-2023)
 
 Program Python ini memvisualisasikan perubahan populasi di Amerika Serikat antara tahun 2022 dan 2023 menggunakan peta choropleth. Program ini menggabungkan data populasi dari file CSV dengan shapefile negara bagian AS untuk menghasilkan representasi geografis perubahan persentase populasi yang jelas dan intuitif.
 
